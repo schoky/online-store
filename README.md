@@ -1,3 +1,3 @@
-## npm run dev - запуск сервера
+## yarn run dev - запуск сервера
 
-## npm start - запуск клиента
+## yarn start - запуск клиента
