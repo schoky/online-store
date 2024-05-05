@@ -23,7 +23,7 @@ const NavBar = observer(() => {
     return (
         <Navbar bg="warning" variant="warning">
             <Container>
-                <NavLink className="d-flex row align-items-center"  style={{color:'black'}} to={SHOP_ROUTE}>Luzin.app</NavLink>
+                <NavLink className="d-flex row align-items-center"  style={{color:'black'}} to={SHOP_ROUTE}>schoky.store</NavLink>
                 {user.isAuth ?
                     <Nav className="ml-auto" style={{color: 'black'}}>
                         <Button
